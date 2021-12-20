@@ -1,4 +1,4 @@
-package com.apirest.webflux.handlers;
+package com.apirest.webflux;
 
 import com.apirest.webflux.document.Playlist;
 import com.apirest.webflux.services.PlaylistService;

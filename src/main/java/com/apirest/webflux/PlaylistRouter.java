@@ -1,8 +1,5 @@
-package com.apirest.webflux.routes;
+package com.apirest.webflux;
 
-import com.apirest.webflux.handlers.PlaylistHandler;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.http.MediaType;
 import org.springframework.web.reactive.function.server.RouterFunction;
 import org.springframework.web.reactive.function.server.RouterFunctions;
