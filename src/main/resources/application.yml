@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://mateusesp:m12345@apirestwebflux.b6d1l.mongodb.net/apirestwebflux?retryWrites=true&w=majority
